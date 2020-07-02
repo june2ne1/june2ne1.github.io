@@ -1,16 +1,16 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://june2ne1.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : 저미저미 개발일지 
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
+    image : assets/img/profileImage.png
+    username : 저미저미
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
       - start : 2017-05-03
