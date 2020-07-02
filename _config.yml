@@ -4,14 +4,14 @@ url : "https://june2ne1.github.io"
 
 # Blog Settings
 theme_settings :
-  title : 저미저미 개발일지 
+  title : 저미저미 개발일지ෆ 
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/profileImage.png
-    username : 저미저미
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : 저미저미ෆ
+    description : PHP Developer
     experience :
       - start : 2017-05-03
         end : 2018-05-06
